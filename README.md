@@ -1,3 +1,3 @@
 # DokkanShowdown
 
-Open on Eclipse IDE
+Coded and tested on Eclipse IDE
